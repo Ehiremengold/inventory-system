@@ -16,20 +16,7 @@ The system is structured around a superclass `Device` with subclasses for differ
   - Update information such as price, quantity, etc.
   - Delete items from the inventory.
 
-## Folder Structure
-The repository is organized as follows:
-inventory-management/
-│
-├── README.md
-├── device.py # Contains the Device superclass
-├── phone.py # Contains the Phone subclass
-├── laptop.py # Contains the Laptop subclass
-├── desktop.py # Contains the Desktop subclass
-├── inventory_manager.py # Main script for CRUD operations
-└── requirements.txt # Dependencies required for the project
-
 ## Getting Started
-
 To use this system, follow these steps:
 
 1. Clone the repository:
