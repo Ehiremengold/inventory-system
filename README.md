@@ -23,4 +23,4 @@ To use this system, follow these steps:
    git clone https://github.com/ehiremengold/inventory-management.git
 2. Install dependencies:
    pip install -r requirements.txt
-3. run ### python manage.py runserver to interact  with the inventory system.
+3. run `python manage.py runserver` to interact  with the inventory system.
